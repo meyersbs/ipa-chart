@@ -6,13 +6,13 @@ There are a ridiculous number of International Phonetic Alphabet charts availabl
 
 ## Contact
 
-Benjamin S. Meyers < <lion.logic.org@gmail.com> >
+Benjamin S. Meyers < <ben@lionlogic.org> >
 
 ## Acknowledgments
 
 ## Licensing
 
-Copyright (C) 2015 Benjamin S. Meyers < <lion.logic.org@gmail.com> >
+Copyright (C) 2015 Benjamin S. Meyers < <ben@lionlogic.org> >
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
